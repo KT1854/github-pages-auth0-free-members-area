@@ -1,4 +1,4 @@
-# github-pages-auth0-free-members-area
+# Github Pages Auth0 - Free Members Aarea
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-blue)](https://pages.github.com/)
